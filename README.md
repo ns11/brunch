@@ -26,3 +26,7 @@ or
 
 ## License
 Brunch is released under the [MIT License](https://raw.github.com/brunch/brunch/master/LICENSE)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ns11/brunch/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
